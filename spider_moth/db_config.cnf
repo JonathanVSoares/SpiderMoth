@@ -1,0 +1,5 @@
+[client]
+database = the_nest
+user = spider_moth_admin
+password = EndorsToi
+default-character-set = utf8
